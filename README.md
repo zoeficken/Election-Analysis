@@ -43,6 +43,11 @@ Number of Votes for each county:
 
 The county with the largest number of votes was Denver.
 
+Results can also be seen below:
+
+<img width="310" alt="Screen Shot 2021-08-28 at 3 30 24 PM" src="https://user-images.githubusercontent.com/88108455/131228844-f963559a-bde5-4e69-9aad-1c2b52ff4797.png">
+
+
 ## Election Audit Summary
 
 This script can be used for any election with the following modifications:
